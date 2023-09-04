@@ -1,10 +1,10 @@
 programa {
   funcao inicio() {
     real salario
-    escreva("Qual seu salário? ")
+    escreva("Qual seu salï¿½rio? ")
     leia(salario)
 
     real soma = salario + salario * 0.1
-    escreva(salario)
+    escreva(soma)
   }
 }
